@@ -25,3 +25,14 @@ The project leverages DistilBERT with transfer learning to classify e-commerce t
 
 ---
 ---
+
+# Web Application using Streamlit
+![image](https://github.com/user-attachments/assets/c37a2c80-6285-4ed7-89e9-daf5414f2c21)
+<br>
+
+Steps to run on localhost
+
+```
+$ cd WebApp
+$ streamlit run TextClassifier.py
+```
